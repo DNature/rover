@@ -3001,9 +3001,7 @@ dependencies = [
  "cargo_metadata",
  "lazy_static",
  "regex",
- "serde_json",
  "structopt",
- "which",
 ]
 
 [[package]]
